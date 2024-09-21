@@ -18,7 +18,7 @@ end
 using Markdown, InteractiveUtils, PlutoUI, Plots, LaTeXStrings,LinearAlgebra, FFTW
 
 # ╔═╡ 9707999c-203e-44f8-8810-c5d679d90665
-include("dst1u.jl")
+include("./dst1u.jl")
 
 # ╔═╡ 4820f1b8-7abe-4fed-a76a-cad266936fa3
 md"# Lecture 02: The Origin of Fourier Analysis I: Wave Equation"
