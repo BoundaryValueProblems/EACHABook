@@ -15,7 +15,11 @@ macro bind(def, element)
 end
 
 # ╔═╡ 983741b4-649e-11ef-111e-654019ad12ba
-using Markdown, InteractiveUtils, PlutoUI, Plots, LaTeXStrings,LinearAlgebra, FFTW
+using PlutoUI
+using Plots
+using LaTeXStrings
+using LinearAlgebra
+using FFTW
 
 # ╔═╡ 9707999c-203e-44f8-8810-c5d679d90665
 include("./dst1u.jl")
